@@ -1,4 +1,6 @@
-body {
+
+
+body, html {
     font-family: Helvetica, Arial, Times;
     font-size: 22px;
     color: seashell;
@@ -42,10 +44,21 @@ li {
     text-decoration: underline;
     display: inline;
     margin: 20px;
+    font-size: 1rem;
 }
 
 h2, h4, h5, p {
-    color: seashell
+    color: seashell;
+    
+}
+h2 {
+    font-size: 1.7rem;
+}
+h4 {
+    font-size: 1.2rem;
+}
+h5 {
+    font-size: 1rem;
 }
 
 .banner {
