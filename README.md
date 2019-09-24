@@ -11,7 +11,7 @@ _____
 _____
 
 ### **Demo Screenshots**
-#####Cozy Tea
+##### Cozy Tea
 * Landing Area!
 ![Image of Landing Page](./assets/images/teaHome.png)
 
